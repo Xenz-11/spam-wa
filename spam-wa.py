@@ -282,7 +282,7 @@ def dark_format_0992():
 
   [•]───────────────────────────────────────────[•]
    |    Creator   : Mr_Dark                      |
-   |   Pengembang : Bang-Inu     	         |
+   |   Pengembang : Xenz-11      	         |
    |   Facebook : Sapa Yah	       	         |
    |     Wa     : 083138613993	                 |
   [•]───────────────────────────────────────────[•]
