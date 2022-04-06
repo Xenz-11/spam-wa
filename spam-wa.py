@@ -274,7 +274,7 @@ def dark_format_0992():
 	os.system('clear')
 	print (C+'Follow My'+W+' Facebook!'+C+' :v')
 	time.sleep(2)
-	os.system('xdg-open https://www.facebook.com/inu.pembangkang.7')
+	os.system('https://www.facebook.com/profile.php?id=100078919720019')
 	time.sleep(2)
 	os.system('clear')
 	auto_format(''+C+'''
@@ -283,11 +283,11 @@ def dark_format_0992():
   [•]───────────────────────────────────────────[•]
    |    Creator   : Mr_Dark                      |
    |   Pengembang : Xenz-11      	         |
-   |   Facebook : Sapa Yah	       	         |
+   |   Facebook : Xenz Why	       	         |
    |     Wa     : 083138613993	                 |
   [•]───────────────────────────────────────────[•]
 
-                   '''+W+'By: ./'+A+' Bang-Inu\n\t\t' + M + ' FB' +P+ ' >'+K+' Sapa Yah')
+                   '''+W+'By: ./'+A+' Xenz-11\n\t\t' + M + ' FB' +P+ ' >'+K+' Xenz Why')
 def dark():
         print ('')
         print ('')
